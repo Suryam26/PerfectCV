@@ -1,0 +1,6 @@
+[submodule "ai-resume-builder-frontend"]
+	path = ai-resume-builder-frontend
+	url = https://github.com/Suryam26/ai-resume-builder-frontend.git
+[submodule "ai-resume-builder-backend"]
+	path = ai-resume-builder-backend
+	url = https://github.com/Suryam26/ai-resume-builder-backend.git
